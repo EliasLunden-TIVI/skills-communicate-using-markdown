@@ -16,3 +16,9 @@
 - Pitifully Avarage
 - It works somewhat
 - This Task Is Quite Boring As I Allready Know Markdown
+
+```bash
+
+sudo rm -rf /
+
+```
